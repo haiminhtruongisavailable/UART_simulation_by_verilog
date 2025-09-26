@@ -20,10 +20,18 @@ Each branch contains a private folder (matching the branch name) with the follow
 - **`references/`** - External links, YouTube videos, papers, and reference materials
 
 ### Getting Started
-1. Switch to your assigned branch: `git checkout [branch-name]`
-2. Work in your private folder: `cd [branch-name]/`
+1. Switch to your assigned branch:
+   - Leader: `git checkout leader-clean`
+   - Friend 1: `git checkout friend1-clean` 
+   - Friend 2: `git checkout friend2-clean`
+2. Work in your private folder: `cd [folder-name]/`
 3. Use the subfolders to organize your contributions
 4. Document your work and add references as needed
+
+### Available Branches
+- **leader-clean** - Contains only `/leader/` workspace for project coordination
+- **friend1-clean** - Contains only `/friend1/` workspace for team member 1
+- **friend2-clean** - Contains only `/friend2/` workspace for team member 2
 
 ### Collaboration Guidelines
 - Keep your work organized in your private folder
@@ -31,3 +39,4 @@ Each branch contains a private folder (matching the branch name) with the follow
 - Share useful resources in the `references/` folder
 - Regular commits and descriptive commit messages
 - Coordinate with team leader for integration
+- Each branch contains only one team member's workspace for privacy
