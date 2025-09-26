@@ -6,7 +6,7 @@ This project uses a branch-based collaboration system where each team member has
 
 ## Available Branches
 
-### 1. leader-clean
+### 1. HaiMinh-clean
 - **Purpose**: Project leader's workspace
 - **Contains**: `/leader/` folder only
 - **Responsibilities**: 
@@ -15,12 +15,12 @@ This project uses a branch-based collaboration system where each team member has
   - Technical architecture decisions
   - Team communication
 
-### 2. friend1-clean  
+### 2. ThePhong-clean  
 - **Purpose**: Team member 1's workspace
 - **Contains**: `/friend1/` folder only
 - **Focus**: Individual development and contributions
 
-### 3. friend2-clean
+### 3. NgocBach-clean
 - **Purpose**: Team member 2's workspace  
 - **Contains**: `/friend2/` folder only
 - **Focus**: Individual development and contributions
